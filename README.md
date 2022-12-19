@@ -10,7 +10,7 @@ I have experience in ecommerce and SEO, what can be desirable in some front-end 
 
 ### Concact
 
-- Mail: [-dkalwasinski717@gmail.com](mailto:dkalwasinski717@gmail.com)
+- Mail: [dkalwasinski717@gmail.com](mailto:dkalwasinski717@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/dkalwasinski/)
 
 ### Front-end languages and Tools
