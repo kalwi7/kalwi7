@@ -33,7 +33,7 @@ I have experience in ecommerce and SEO, what can be desirable in some front-end 
 
 ### Projects
 
-Tarot TAK-NIE ✔️ REACT ✔️ Basic app created for my Wordpress Page. Pick Tarot cards to reaceive an answer.
+Tarot TAK-NIE ✔️ REACT ✔️ Basic app created for my Wordpress website. Pick Tarot cards to reaceive an answer.
 [GitHub](https://github.com/kalwi7/tarot-app) | [Live](https://www.myslczlowieku.pl/tarot-tak-nie/)
 
 Social App ✔️ HTML, CSS(SASS), JAVA SCRIPT ✔️ Basic project to practise Grid layout and Vanila JS
