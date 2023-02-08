@@ -2,12 +2,6 @@
 
 Front-end development become my passion recently. Every day, I am trying to learn something new in this field, because it gives me huge satisfaction. I like challenges and solving problems. I graduated from computer science, but in front-end area I'm mostly self-taught. I like to get to know the subject well before moving further. I am also interested in graphic design and always pay attention to this in projects.
 
-I have experience in ecommerce and SEO, what can be desirable in some front-end positions. I am also developing my own Wordpress website and Woocommerce store [Myslczlowieku.pl](https://www.myslczlowieku.pl/), where can i see how it work under the hood. Non Front-end tools I am fimiliar with:
-
-- Wordpress, Woocomerce
-- Google Search Console, Analytics, Optimise, Tag Menager
-- Ahrefs, Senuto, SurferSeo, Sitebulb, HotJar, Yoast, RankMath
-
 ### Concact
 
 - Mail: [dkalwasinski717@gmail.com](mailto:dkalwasinski717@gmail.com)
